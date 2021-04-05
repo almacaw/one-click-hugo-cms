@@ -1,0 +1,40 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4034872, 2021-04-05T01:37:51-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: GalanoGrotesque-Regular by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/regular/
+ *
+ * Webfont: GalanoGrotesque-SemiBold by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/semi-bold/
+ *
+ *
+ * Webfonts copyright: Copyright &amp;#x00A9; 2014 by Ren&amp;#x00E9; Bieder. All rights reserved.
+ *
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3d9138");
+
+@font-face {
+  font-family: "GalanoGrotesque";
+  font-style: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  src: url('webFonts/GalanoGrotesque/normal_normal_bold.woff2') format('woff2'), url('webFonts/GalanoGrotesque/normal_normal_bold.woff') format('woff');
+}
+@font-face {
+  font-family: "GalanoGrotesque";
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('webFonts/GalanoGrotesque/normal_normal_normal.woff2') format('woff2'), url('webFonts/GalanoGrotesque/normal_normal_normal.woff') format('woff');
+}
